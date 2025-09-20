@@ -183,7 +183,7 @@ The Power BI dashboard provides a visual exploration of the Titanic dataset.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Marwan_Aly_Mohamed/titanic-survival-prediction.git
+git clone https://github.com/Marwan-Aly-Mohamed/titanic-survival-prediction.git
 cd titanic-survival-prediction
 ```
 
