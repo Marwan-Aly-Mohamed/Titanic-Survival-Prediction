@@ -178,23 +178,6 @@ The Power BI dashboard provides a visual exploration of the Titanic dataset.
 
 ![Dashboard Page 2](Images/Dashboard_Page2.PNG)
 
-## How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Marwan-Aly-Mohamed/titanic-survival-prediction.git
-cd titanic-survival-prediction
-```
-
-### 2. Run the Notebook
-
-Open `Titanic.ipynb` in Jupyter Notebook or Google Colab and run all cells to reproduce results.
-
-### 3. View the Dashboard
-
-Open `Titanic Dashboard.pbix` in **Power BI Desktop** to explore the visualizations.
-
 ## Future Improvements
 
 * Hyperparameter tuning with GridSearchCV/RandomizedSearchCV
